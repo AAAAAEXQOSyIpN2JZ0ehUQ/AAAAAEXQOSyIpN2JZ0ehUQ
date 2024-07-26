@@ -29,6 +29,10 @@ Estoy abierto a colaborar en proyectos interesantes relacionados con:
 
 Puedes encontrarme en Telegram como [@Jony_Rivera](https://t.me/Jony_Rivera). ¡No dudes en enviarme un mensaje si tienes alguna idea, proyecto o simplemente quieres charlar sobre ciberseguridad!
 
+Puedes encontrarme en:
+- **Telegram**: [@Jony_Rivera](https://t.me/Jony_Rivera)
+- **GitHub**: [Mi repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ)
+
 ## 🌈 Pronombres
 
 - Gato
