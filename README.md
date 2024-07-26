@@ -34,7 +34,7 @@ Puedes encontrarme en:
 ## 🌈 Pronombres
 
 - Gato
-- 
+
 ## 🏆 Créditos
 
 Agradecimientos especiales al [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) por su apoyo y colaboración en la comunidad.
