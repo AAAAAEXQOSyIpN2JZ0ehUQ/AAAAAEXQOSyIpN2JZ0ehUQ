@@ -33,6 +33,10 @@ Puedes encontrarme en Telegram como [@Jony_Rivera](https://t.me/Jony_Rivera). ¡
 
 - Gato
 
+## 🏆 Créditos
+
+Agradecimientos especiales al [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) por su apoyo y colaboración.
+
 ## 🎉 Curiosidades
 
 - ⚡ **Dato curioso**: ¡Disfruto explorando nuevas tecnologías y desarrollando proyectos innovadores!
