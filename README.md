@@ -16,12 +16,14 @@ Aquí algunos de mis proyectos más interesantes:
 - **ADMPLUS-MANAGER-PRO**: Script profesional para la administración de servidores con capacidades extendidas.
 - **SCRIPTS_BACKUP**: Repositorio en el que encuentras scripts que han sido descontinuados. ideal para recolectar herramientas y código sin necesidad de armar tus propios scripts manager.
 
-
 ## 📚 Lo Que Hago
 
 - **Desarrollo**: [Desarrollo de scripts en Python y Bash para la administración de sistemas y redes.]
 - **Contribuciones**: [Participo en proyectos de ciberseguridad y automatización.]
 - **Intereses**: [Seguridad en redes, hacking ético, automatización de sistemas.]
+
+📚 Aprendizaje
+Actualmente, estoy aprendiendo de manera autodidacta, aprovechando recursos en línea, cursos, y experimentación práctica para expandir mis habilidades.
 
 ## 📫 Contacto
 
@@ -29,6 +31,10 @@ Puedes encontrarme en:
 - **Telegram**: [@Jony_Rivera](https://t.me/Jony_Rivera)
 - **GitHub**: [Mi repositorio](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ)
 
+## 🌈 Pronombres
+
+- Gato
+- 
 ## 🏆 Créditos
 
 Agradecimientos especiales al [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) por su apoyo y colaboración en la comunidad.
