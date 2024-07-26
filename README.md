@@ -1,4 +1,4 @@
-![logo]([https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/blob/master/Imagenes/16e49668-fd3d-4358-b2ce-338b05d11b90.jpg](https://articles-img.sftcdn.net/t_articles/auto-mapping-folder/sites/2/2023/03/escritorio-hacker.jpg))
+![logo](https://articles-img.sftcdn.net/t_articles/auto-mapping-folder/sites/2/2023/03/escritorio-hacker.jpg)
  
 # 👋 Hola, soy Jony Rivera
 
