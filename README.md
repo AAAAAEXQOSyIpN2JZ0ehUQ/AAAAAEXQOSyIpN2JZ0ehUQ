@@ -1,4 +1,4 @@
-![logo]([https://steamuserimages-a.akamaihd.net/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://i.pinimg.com/originals/dc/a3/9a/dca39ae9f56ebf107c2582911990b19a.gif))
+![logo](https://i.pinimg.com/originals/dc/a3/9a/dca39ae9f56ebf107c2582911990b19a.gif)
  
 # 👋 Hola, soy Jony Rivera
 
