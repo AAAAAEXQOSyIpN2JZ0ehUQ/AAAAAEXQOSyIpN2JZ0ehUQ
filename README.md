@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/dc/a3/9a/dca39ae9f56ebf107c2582911990b19a.gif)
  
-# 👋 Hola, soy Jony Rivera
+# 👋 Hola, soy Dzhoni_dev
 
 Bienvenido a mi rincón de GitHub. Aquí encontrarás mis proyectos y scripts dedicados al fascinante mundo de la **ciberseguridad** y el **hacking ético**.
 
@@ -29,11 +29,11 @@ Estoy abierto a colaborar en proyectos interesantes relacionados con:
 
 ## 📫 Contacto
 
-Puedes encontrarme en Telegram como [@Jony_Rivera](https://t.me/Jony_Rivera). ¡No dudes en enviarme un mensaje si tienes alguna idea, proyecto o simplemente quieres charlar sobre ciberseguridad!
+Puedes encontrarme en Telegram como [@Jony_Rivera](https://t.me/Dzhoni_dev). ¡No dudes en enviarme un mensaje si tienes alguna idea, proyecto o simplemente quieres charlar sobre ciberseguridad!
 
 ## 🌈 Pronombres
 
-- Gato
+- Dzhoni_dev
 
 ## 🏆 Créditos
 
