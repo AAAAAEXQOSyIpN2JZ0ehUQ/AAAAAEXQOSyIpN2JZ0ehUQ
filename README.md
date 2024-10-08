@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/dc/a3/9a/dca39ae9f56ebf107c2582911990b19a.gif)
  
-# 👋 Hola, soy Dzhoni_dev
+# 👋 Hola, soy Dzhoni
 
 Bienvenido a mi rincón de GitHub. Aquí encontrarás mis proyectos y scripts dedicados al fascinante mundo de la **ciberseguridad** y el **hacking ético**.
 
@@ -33,7 +33,7 @@ Puedes encontrarme en Telegram como [@Dzhoni_dev](https://t.me/Dzhoni_dev). ¡No
 
 ## 🌈 Pronombres
 
-- Dzhoni_dev
+- Dzhoni
 
 ## 🏆 Créditos
 
