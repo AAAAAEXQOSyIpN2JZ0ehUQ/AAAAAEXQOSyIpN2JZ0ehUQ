@@ -29,7 +29,7 @@ Estoy abierto a colaborar en proyectos interesantes relacionados con:
 
 ## 📫 Contacto
 
-Puedes encontrarme en Telegram como [@Dzhoni_dev](https://t.me/Dzhoni_dev) ¡No dudes en enviarme un mensaje si tienes alguna idea, proyecto o simplemente quieres charlar sobre ciberseguridad!
+Puedes encontrarme en Telegram como [@Dzhoni_dev](https://t.me/Dzhoni_dev) ¡No dudes en enviarme un mensaje si tienes alguna idea, proyecto o simplemente quieres charlar sobre **ciberseguridad** y el **hacking ético**!
 
 ## 🌈 Pronombres
 
